@@ -1,4 +1,4 @@
 intellij-colors-spoonman
 ========================
 
-Spoonman color scheme for Intellij IDEA
+Spoonman light and dark color scheme for IntelliJ IDEA developed by Tomasz Kalkosiński tomasz.kalkosinski@gmail.com.

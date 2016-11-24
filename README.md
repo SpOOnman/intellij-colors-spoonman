@@ -1,6 +1,6 @@
 # intellij-colors-spoonman
 
-Spoonman light and dark color scheme for IntelliJ IDEA developed by Tomasz Kalkosiński tomasz.kalkosinski@gmail.com.
+Spoonman light color scheme for IntelliJ IDEA developed by Tomasz Kalkosiński tomasz.kalkosinski@gmail.com. Supported version is 2016.2.
 
 ## Installation
 
@@ -12,12 +12,12 @@ $ cd ~/Downloads
 $ git clone git@github.com:SpOOnman/intellij-colors-spoonman.git
 
 # Copy files to your IntelliJIdea directory:
-$ cd ~/.IntelliJIdea13/config/colors
+$ cd ~/.IntelliJIdea2016.2/config/colors
 $ cp ~/Downloads/intellij-colors-spoonman/* .
 
 # Check if it copied fine
 $ ls
-README.md  Spoonman Dusk.icls  Spoonman Light.icls
+README.md Spoonman Light.icls
 ```
 
 

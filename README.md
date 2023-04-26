@@ -33,29 +33,29 @@ If you have problems finding `colors` directory of you IDE check JetBrains' manu
 
 ## Screenshots
 
-- Java:
-  ![Java](img/Spoonman-Java.png)
+#### Java
+![Java](img/Spoonman-Java.png)
 
-- Kotlin:
-  ![Kotlin](img/Spoonman-Kotlin.png)
+#### Kotlin
+![Kotlin](img/Spoonman-Kotlin.png)
 
-- TypeScript:
-  ![TypeScript](img/Spoonman-TypeScript.png)
+#### TypeScript
+![TypeScript](img/Spoonman-TypeScript.png)
 
-- JavaScript:
-  ![JavaScript](img/Spoonman-JavaScript.png)
+#### JavaScript
+![JavaScript](img/Spoonman-JavaScript.png)
 
-- Scala:
-  ![Scala](img/Spoonman-Scala.png)
+#### Scala
+![Scala](img/Spoonman-Scala.png)
 
-- SQL:
-  ![SQL](img/Spoonman-SQL.png)
+#### SQL
+![SQL](img/Spoonman-SQL.png)
 
-- CSS:
-  ![JSS](img/Spoonman-CSS.png)
+#### CSS
+![CSS](img/Spoonman-CSS.png)
 
-- JSON:
-  ![JSON](img/Spoonman-JSON.png)
+#### JSON
+![JSON](img/Spoonman-JSON.png)
 
 ## License
 

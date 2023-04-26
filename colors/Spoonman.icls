@@ -1,15 +1,7 @@
-<scheme name="Spoonman Light" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
-  <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="READONLY_BACKGROUND" value="" />
-  </colors>
+<scheme name="Spoonman" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="modified">2020-12-11T10:54:03</property>
+  </metaInfo>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
@@ -157,12 +149,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL">
-      <value>
-        <option name="FOREGROUND" value="2e92c8" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="696969" />
@@ -179,18 +165,6 @@
       <value>
         <option name="FOREGROUND" value="141496" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_REASSIGNED_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="a06001" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -360,14 +334,10 @@
         <option name="FOREGROUND" value="99006b" />
       </value>
     </option>
-    <option name="KOTLIN_EXTENSION_PROPERTY">
-      <value>
-        <option name="FOREGROUND" value="660e7a" />
-      </value>
-    </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="99006b" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="Keyword">

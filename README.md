@@ -1,23 +1,47 @@
 # intellij-colors-spoonman
 
-Spoonman light color scheme for IntelliJ IDEA developed by Tomasz Kalkosiński tomasz.kalkosinski@gmail.com. Supported version is 2016.2.
+Spoonman color scheme for IntelliJ IDEA and other IDEs - PyCharm, WebStorm, PhpStorm, RubyMine etc.
+
+Features:
+- Light background, not #FFFFFF white so it doesn't burn your eyes nor your display
+- Distinct colors for local variables, method parameters, methods, keywords, statics and many others
+- You can easily guess every word's category by the color
+- No bright colors
 
 ## Installation
 
-Just clone this repository and copy (or symlink) these files to your IDEA installation directory, like this:
+1. Clone this repository:
 
-```
-# Clone repository
-$ cd ~/Downloads
-$ git clone git@github.com:SpOOnman/intellij-colors-spoonman.git
+    ```bash
+    $ cd ~/Downloads
+    $ git clone git@github.com:SpOOnman/intellij-colors-spoonman.git
+    ```
 
-# Copy files to your IntelliJIdea directory:
-$ cd ~/.IntelliJIdea2016.2/config/colors
-$ cp ~/Downloads/intellij-colors-spoonman/* .
+2. Copy color scheme file to your IDE color config directory 
+    
+    ```bash
+    # For Linux:
+    $ cp ~/Downloads/intellij-colors-spoonman/colors/Spoonman.icls ~/.config/JetBrains/IntelliJIdea2023.1/colors/
+    
+    # For MacOS:
+    $ cp ~/Downloads/intellij-colors-spoonman/colors/Spoonman.icls ~/Library/Application Support/JetBrains/IntelliJIdea2023.1/colors/
+    ```
 
-# Check if it copied fine
-$ ls
-README.md Spoonman Light.icls
-```
+3. Select Color Scheme and choose `Spoonman`.
 
+If you have problems finding `colors` directory of you IDE check JetBrains' manual on used paths [here](https://www.jetbrains.com/help/idea/directories-used-by-the-ide-to-store-settings-caches-plugins-and-logs.html).
 
+## Screenshots
+
+- Java: ![Java](img/Spoonman-Java.png)
+- Kotlin: ![Kotlin](img/Spoonman-Kotlin.png)
+- TypeScript: ![TypeScript](img/Spoonman-TypeScript.png)
+- JavaScript: ![JavaScript](img/Spoonman-JavaScript.png)
+- Scala: ![Scala](img/Spoonman-Scala.png)
+- SQL: ![SQL](img/Spoonman-SQL.png)
+- CSS: ![JSS](img/Spoonman-CSS.png)
+- JSON: ![JSON](img/Spoonman-JSON.png)
+
+## License
+
+Released under the [MIT](LICENSE) License.
